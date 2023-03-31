@@ -1,0 +1,7 @@
+{
+  "name": "swiperjstest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
